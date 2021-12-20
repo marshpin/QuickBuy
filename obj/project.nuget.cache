@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lM49miFCiNEJtAJAqWS6EhjF6MH2PkXUMLTzx3W7oC2F6BEDHFyug4Y/AYEDoRXeQEHYLboKXbW8SBIPJO/phg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\`Dylan\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\QuickBuy\\QuickBuy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\`Dylan\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

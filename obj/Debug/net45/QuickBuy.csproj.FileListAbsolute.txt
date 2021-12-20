@@ -1,0 +1,5 @@
+C:\Users\`Dylan\Documents\My Games\Terraria\ModLoader\Mod Sources\QuickBuy\obj\Debug\net45\QuickBuy.csproj.AssemblyReference.cache
+C:\Users\`Dylan\Documents\My Games\Terraria\ModLoader\Mod Sources\QuickBuy\obj\Debug\net45\QuickBuy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\`Dylan\Documents\My Games\Terraria\ModLoader\Mod Sources\QuickBuy\obj\Debug\net45\QuickBuy.AssemblyInfoInputs.cache
+C:\Users\`Dylan\Documents\My Games\Terraria\ModLoader\Mod Sources\QuickBuy\obj\Debug\net45\QuickBuy.AssemblyInfo.cs
+C:\Users\`Dylan\Documents\My Games\Terraria\ModLoader\Mod Sources\QuickBuy\obj\Debug\net45\QuickBuy.csproj.CoreCompileInputs.cache

@@ -1,0 +1,3 @@
+displayName = Quick Buy 
+author = marshpin
+version = 1.0

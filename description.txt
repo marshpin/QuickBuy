@@ -1,0 +1,1 @@
+Adds a hotkey to quick buy an item from an NPC.
